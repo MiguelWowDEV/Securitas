@@ -1,0 +1,12 @@
+{
+    "prueba": {
+        "path": "C:\\Users\\MIGUEL NIEVES\\Desktop\\DEV\\python\\apps cli\\securitas",
+        "password": "$pbkdf2-sha256$30000$b00pxRijlHLOGcNYyzlHKA$UzPjWaiuGmVrvrgpaJ4cgOnemPn2bamy2uUsoUJalns",
+        "show": true
+    },
+    "pokemon": {
+        "path": "C:\\Users\\MIGUEL NIEVES\\Desktop\\DEV\\python\\apps cli\\securitas",
+        "password": "$pbkdf2-sha256$30000$aC2lFAJA6J1TyhnDGOOc8w$Hb2hCeGzlbl7tbEr.A8TKXNNMaSGgddITKeo4bW/m2M",
+        "show": true
+    }
+}
